@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pulse Measurement</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="stop">Stop</string>
+    <string name="getSensorDataBtn">Get Sensor Data</string>
+    <string name="scanForDevices">Scan For Devices</string>
+    <string name="firstNameText">First Name: </string>
+    <string name="lastNameText">Last Name: </string>
+    <string name="DOBText">Date of Birth: </string>
+    <string name="add_patient">Add Patient</string>
+</resources>
